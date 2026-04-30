@@ -1,1 +1,5 @@
-pip install streamlit pyserial pandas numpy scikit-learn
+streamlit 
+pyserial 
+pandas 
+numpy 
+scikit-learn
