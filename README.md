@@ -44,7 +44,7 @@ streamlit run IoT.py
 
 ---
 
-### ⚠️ Important Notes
+### Important Notes
 
 * Ensure your device is sending data in this format:
 
